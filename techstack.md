@@ -2,6 +2,8 @@
 --- Readme.md Snippet without images Start ---
 ## Tech Stack
 nice-org-two/kafka-docker is built on the following main stack:
+- [Kafka](http://kafka.apache.org/) – Message Queue
+- [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
@@ -12,6 +14,8 @@ Full tech stack [here](/techstack.md)
 --- Readme.md Snippet with images Start ---
 ## Tech Stack
 nice-org-two/kafka-docker is built on the following main stack:
+- <img width='25' height='25' src='https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg' alt='Kafka'/> [Kafka](http://kafka.apache.org/) – Message Queue
+- <img width='25' height='25' src='https://img.stackshare.io/service/1528/apache-zookeeper.png' alt='Zookeeper'/> [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
@@ -24,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/kafka-docker](https://github.com/nice-org-two/kafka-docker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|65<br/>Contributors|11/08/23 <br/>Report generated|05/28/22<br/>Last commit date|
+|6<br/>Tools used|65<br/>Contributors|11/08/23 <br/>Report generated|05/28/22<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -41,7 +45,20 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg' alt='Kafka'>
+  <br>
+  <sub><a href="http://kafka.apache.org/">Kafka</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'>
@@ -63,6 +80,14 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'>
   <br>
   <sub><a href="http://travis-ci.com/">Travis CI</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1528/apache-zookeeper.png' alt='Zookeeper'>
+  <br>
+  <sub><a href="http://zookeeper.apache.org/">Zookeeper</a></sub>
   <br>
   <sub></sub>
 </td>
