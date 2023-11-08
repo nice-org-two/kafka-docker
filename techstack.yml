@@ -1,7 +1,7 @@
 repo_name: nice-org-two/kafka-docker
-report_id: 04cbae6b656737b43c5f27fec6024b46
+report_id: fabd246867f93000487903bd4230f592
 repo_type: Public
-timestamp: '2023-11-07T12:49:08+00:00'
+timestamp: '2023-11-08T07:32:34+00:00'
 requested_by: azieseme
 provider: github
 branch: master
@@ -15,7 +15,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -25,7 +25,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
-  imageURL: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,7 +34,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -44,5 +44,5 @@ tools:
   hosted_saas: true
   category: Build, Test, Deploy
   sub_category: Continuous Integration
-  imageURL: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
   detection_source: ".travis.yml"
