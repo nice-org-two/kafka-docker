@@ -1,7 +1,7 @@
 repo_name: nice-org-two/kafka-docker
-report_id: 7c321d30b149de271e3480927b8a0a32
+report_id: ad1fb6679cc2205d0a8eed8c5a7647e1
 repo_type: Public
-timestamp: '2023-11-08T20:17:19+00:00'
+timestamp: '2023-11-10T16:27:38+00:00'
 requested_by: azieseme
 provider: github
 branch: master
@@ -27,6 +27,8 @@ tools:
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
   detection_source: test/scenarios/jmx/docker-compose.yml
+  last_updated_by: sscaling
+  last_updated_on: 2019-12-20 14:06:50.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -56,6 +58,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
   detection_source: ".travis.yml"
+  last_updated_by: Shaun Scaling
+  last_updated_on: 2018-03-06 19:54:10.000000000 Z
 - name: Zookeeper
   description: Because coordinating distributed systems is a Zoo
   website_url: http://zookeeper.apache.org/
@@ -65,3 +69,5 @@ tools:
   sub_category: Open Source Service Discovery
   image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
   detection_source: test/scenarios/jmx/docker-compose.yml
+  last_updated_by: Wurstmeister
+  last_updated_on: 2016-06-04 14:21:28.000000000 Z
