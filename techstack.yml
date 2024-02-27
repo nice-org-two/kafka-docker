@@ -1,7 +1,8 @@
 repo_name: nice-org-two/kafka-docker
-report_id: cf4e9480331553750005584820484a81
+report_id: a488b67063cdbc3441cde0feff71b584
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T18:03:30+00:00'
+timestamp: '2024-02-27T16:21:54+00:00'
 requested_by: azieseme
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/nice-org-two/kafka-docker
   detection_source: Repo Metadata
 - name: Kafka
   description: Distributed, fault tolerant, high throughput pub-sub messaging system
@@ -26,7 +28,8 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
-  detection_source: test/scenarios/jmx/docker-compose.yml
+  detection_source_url: https://github.com/nice-org-two/kafka-docker/blob/master/test/docker-compose.yml
+  detection_source: test/docker-compose.yml
   last_updated_by: sscaling
   last_updated_on: 2019-12-20 14:06:50.000000000 Z
 - name: Docker
@@ -38,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/nice-org-two/kafka-docker
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nice-org-two/kafka-docker
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -57,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/nice-org-two/kafka-docker/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Shaun Scaling
   last_updated_on: 2018-03-06 19:54:10.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Open Source Service Discovery
   image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
-  detection_source: test/scenarios/jmx/docker-compose.yml
+  detection_source_url: https://github.com/nice-org-two/kafka-docker/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
   last_updated_by: Wurstmeister
   last_updated_on: 2016-06-04 14:21:28.000000000 Z
